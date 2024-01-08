@@ -1,4 +1,4 @@
-<h1>Weather App</h1>
+<h1>**Weather App**</h1>
 <br/>
 This app tells the user the weather of a city when it enters the name of the city
 <br/>
